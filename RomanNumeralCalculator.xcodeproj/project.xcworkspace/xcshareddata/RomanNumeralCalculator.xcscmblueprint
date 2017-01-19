@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "631D75B8AB3BBC2D7BAA4389C997D270FED8F670",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65" : 9223372036854775807,
+    "631D75B8AB3BBC2D7BAA4389C997D270FED8F670" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B883910-A9AD-4969-8546-BA768139705F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65" : "",
+    "631D75B8AB3BBC2D7BAA4389C997D270FED8F670" : "ios-short-continuous-integration\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RomanNumeralCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RomanNumeralCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pabloelizalde\/ios-short-continuous-integration.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "631D75B8AB3BBC2D7BAA4389C997D270FED8F670"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Suitsupply\/CustomerApp-HubFramework-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65"
+    }
+  ]
+}
